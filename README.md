@@ -15,3 +15,9 @@ You are working as a Data Analyst at The Finance Group. The client has requested
 * KPI Cards: Revenue, Gross Margin %, EBITDA %, Net Cash
 * Visuals: Revenue & Profit Trend, Budget vs Actual variance %, Product/Service performance, Receivables Aging, Cash Flow Waterfall 
 
+### Interactivity: 
+* Filters for region, product category, and date range
+* Drill-downs (e.g., click a month to see category-level data)
+
+### Data Accuracy: 
+Clean and document missing or incorrect data
