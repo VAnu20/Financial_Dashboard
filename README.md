@@ -20,4 +20,4 @@ You are working as a Data Analyst at The Finance Group. The client has requested
 * Drill-downs (e.g., click a month to see category-level data)
 
 ### Data Accuracy: 
-Clean and document missing or incorrect data
+* Clean and document missing or incorrect data
