@@ -89,7 +89,7 @@ The Financial Dashboard provides a comprehensive view of the company’s financi
   
 These filters enable users to interactively explore financial performance and perform drill-down analysis from monthly trends to product or regional level insights.
 
-  ![Screenshot])
+  ![Screenshot](https://github.com/VAnu20/Financial_Dashboard/blob/885da3748d39b1f635c99e7d5b01b605c06a1195/FINANCIAL_DASHBOARD.pdf)
 
 ### Key Business Insights/Findings
 
