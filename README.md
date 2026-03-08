@@ -89,6 +89,8 @@ The Financial Dashboard provides a comprehensive view of the company’s financi
   
 These filters enable users to interactively explore financial performance and perform drill-down analysis from monthly trends to product or regional level insights.
 
+  ![Screenshot])
+
 ### Key Business Insights/Findings
 
 The dashboard provided several important insights into the company’s financial performance.
